@@ -2,6 +2,7 @@ var gamesWon = 0;
 var gamesPlayed = 0;
 var userName = " ";
 var gameState = "nameInput";
+//test comment
 
 var main = function (input) {
   // Check Game Mode
